@@ -13,7 +13,7 @@
 ---
 
 - ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/asmit-kumar-394097330/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([Asmit Kumar](https://www.linkedin.com/in/asmit-kumar-394097330/)
 
 ---
 
